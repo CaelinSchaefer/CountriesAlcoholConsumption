@@ -1,2 +1,2 @@
 # CountriesAlcoholConsumption
-Classification of Regions Based on Countries Alcohol Consumption
+Classification of Regions Based on a Countries' Alcohol Consumption
